@@ -2,7 +2,7 @@
 
 A single-page IT Helpdesk / Incident Management simulation built for an IT Support screen-recorded demo. It reproduces the core workflow of an enterprise service desk tool — ticket queue, ticket detail, live step-by-step troubleshooting, notes, activity timeline, user directory, knowledge base, reports, and settings — entirely in one self-contained HTML file with no build step or backend.
 
-**[Live Demo](#)** · replace with your GitHub Pages URL once deployed
+**[Live Demo](https://melandipam.github.io/High-end-service-desk/)**
 
 ## Features
 
